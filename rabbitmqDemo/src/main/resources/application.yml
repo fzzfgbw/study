@@ -1,0 +1,26 @@
+Server:
+  port: 8005
+
+Spring:
+  application:
+    name: rabbitmqDemo
+  rabbitmq:
+    host: 192.168.10.188
+    port: 5672
+    username: admin
+    password: admin
+    listener:
+#      direct:
+#        acknowledge-mode: manual
+      simple:
+        acknowledge-mode: manual
+
+#        使用场景：
+#        如果消息没有到exchange,则confirm回调,ack=false
+#        如果消息到达exchange,则confirm回调,ack=true
+#        exchange到queue成功,则不回调return
+#        exchange到queue失败,则回调return(需设置mandatory=true,否则不回回调,消息就丢了)
+    publisher-confirms: true
+    publisher-returns: true
+    template:
+      mandatory: true
