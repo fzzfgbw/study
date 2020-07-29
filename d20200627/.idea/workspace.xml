@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5df5fce5-877b-415f-a86f-3905c3db6850" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/study/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/src/main/java/com/gw/rabbitmqDemo/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/src/main/java/com/gw/rabbitmqDemo/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/src/main/java/com/gw/rabbitmqDemo/RabbitMqTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/src/main/java/com/gw/rabbitmqDemo/RabbitTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/src/main/java/com/gw/rabbitmqDemo/RbMQMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/src/main/java/com/gw/rabbitmqDemo/SenderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/target/classes/com/gw/rabbitmqDemo/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/target/classes/com/gw/rabbitmqDemo/RabbitMqTemplateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/target/classes/com/gw/rabbitmqDemo/RabbitTemplateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/target/classes/com/gw/rabbitmqDemo/RbMQMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/rabbitmqDemo/target/classes/com/gw/rabbitmqDemo/SenderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/Cas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/OutOfOrderExecution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/TestAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/TestCacheLinePadding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/TestDaemonThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/TestFinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/TestJUC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/TestJol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/TestLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/TestReentryLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/aa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/jvm/character1/FatherAndSon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/jvm/character1/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/jvm/character1/TestClassLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/com/example/jvm/character1/ThreadsOnClinit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/java/java/lang/String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/main/resources/lib/guava-20.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/Cas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/OutOfOrderExecution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/OutOfOrderExecution$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/OutOfOrderExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/Student$aa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/TestAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/TestCacheLinePadding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/TestDaemonThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/TestFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/TestJUC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/TestJol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/TestLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/TestReentryLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/jvm/character1/FatherAndSon$Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/jvm/character1/FatherAndSon$Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/jvm/character1/FatherAndSon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/jvm/character1/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/jvm/character1/TestClassLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/jvm/character1/ThreadsOnClinit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/com/example/jvm/character1/init.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/target/classes/java/lang/String.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/study" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repo" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1duJXX7tkFMfabG9YBEVVOYLpfl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10568\Desktop\gw-pj\d20200627\src\main\resources\lib" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gw.rabbitmqDemo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RbMQMain">
+    <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.lang.String" />
+      <module name="d20200627" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.lang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jvm.character1.TestClassLoader" />
+      <module name="d20200627" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jvm.character1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.TestJol" />
+      <module name="d20200627" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadsOnClinit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jvm.character1.ThreadsOnClinit" />
+      <module name="d20200627" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jvm.character1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RbMQMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmqDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gw.rabbitmqDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gw.rabbitmqDemo.RbMQMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RbMQMain" />
+        <item itemvalue="Application.String" />
+        <item itemvalue="Application.TestClassLoader" />
+        <item itemvalue="Application.TestJol" />
+        <item itemvalue="Application.ThreadsOnClinit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df5fce5-877b-415f-a86f-3905c3db6850" name="Default Changelist" comment="" />
+      <created>1593269084911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593269084911</updated>
+      <workItem from="1593269088346" duration="3177000" />
+      <workItem from="1593304734572" duration="2012000" />
+      <workItem from="1593358390562" duration="1197000" />
+      <workItem from="1593758207834" duration="4295000" />
+      <workItem from="1593763393444" duration="391000" />
+      <workItem from="1593763860134" duration="1005000" />
+      <workItem from="1594001667471" duration="4046000" />
+      <workItem from="1594080996233" duration="598000" />
+      <workItem from="1594179601914" duration="13782000" />
+      <workItem from="1594255763164" duration="10413000" />
+      <workItem from="1594341370496" duration="641000" />
+      <workItem from="1594366554671" duration="6789000" />
+      <workItem from="1594604056331" duration="6952000" />
+      <workItem from="1594688041600" duration="12793000" />
+      <workItem from="1594773715398" duration="241000" />
+      <workItem from="1594793893654" duration="16834000" />
+      <workItem from="1594860280752" duration="15508000" />
+      <workItem from="1594946194418" duration="4292000" />
+      <workItem from="1595205261897" duration="2610000" />
+      <workItem from="1595239882738" duration="597000" />
+      <workItem from="1595291845622" duration="595000" />
+      <workItem from="1595328436178" duration="1221000" />
+      <workItem from="1595378309568" duration="6447000" />
+      <workItem from="1595464544593" duration="759000" />
+      <workItem from="1595471166639" duration="1398000" />
+      <workItem from="1595595658052" duration="2653000" />
+      <workItem from="1595679427881" duration="1305000" />
+      <workItem from="1595771243058" duration="1756000" />
+      <workItem from="1595773082202" duration="5999000" />
+      <workItem from="1595810315509" duration="113000" />
+      <workItem from="1595853567138" duration="786000" />
+      <workItem from="1595896544518" duration="3000" />
+      <workItem from="1595999229581" duration="893000" />
+      <workItem from="1596002634105" duration="1420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
